@@ -1,5 +1,9 @@
 holi
+<<<<<<< HEAD
 hol cambiando cosas otra vez
 HORA DE FASTIDIAR
 este cambio es de Raúl
 hola que tal otra vez
+=======
+hol cambiando cosas otra vez
+>>>>>>> parent of 67ad1a3 (mi cambio)
