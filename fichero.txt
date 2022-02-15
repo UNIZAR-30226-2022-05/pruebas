@@ -1,11 +1,15 @@
 holi
 <<<<<<< HEAD
+<<<<<<< HEAD
 hol cambiando cosas otra vez
 este cambio es de Raúl
 Daniel es intransigente, no acepta cambios
 este cambio es de Marcos
 hola que tal otra vez
 CORRE
+=======
+hol cambiando cosas otra vez
+>>>>>>> parent of 67ad1a3 (mi cambio)
 =======
 hol cambiando cosas otra vez
 >>>>>>> parent of 67ad1a3 (mi cambio)
