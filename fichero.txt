@@ -1,3 +1,7 @@
 holi
 hol cambiando cosas otra vez
+<<<<<<< HEAD
 HORA DE FASTIDIAR
+=======
+este cambio es de Raúl
+>>>>>>> 67ad1a3a489e269f826369afa9d577f4e74cd7e6
